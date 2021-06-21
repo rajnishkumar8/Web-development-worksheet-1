@@ -1,0 +1,32 @@
+
+.heading{
+    color:red;
+    background-color:#000000;
+    text-align: center;
+    padding: 3px;
+}
+#WDW-1{ 
+    text-align: center;
+    color: royalblue;
+    background-color:coral;
+    ;
+    }
+
+p{
+    color:darkblue;
+    margin: 40px;
+
+}
+h3{
+    color:red;
+    margin: 5px;
+}
+*{
+    font: size 25px;
+    margin: 40px;;
+}
+#ty{
+    color: black;
+    background-color:chartreuse;
+    text-align: center;
+}
